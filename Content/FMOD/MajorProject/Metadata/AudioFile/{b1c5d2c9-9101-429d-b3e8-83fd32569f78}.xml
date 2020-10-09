@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{b1c5d2c9-9101-429d-b3e8-83fd32569f78}">
+		<property name="assetPath">
+			<value>Light_and_Darkness_Sin_and_Forgiveness.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.852244897959183</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{01e9fe98-5625-4ea2-ae01-d5e4fbd62fbf}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c2776c1e-61fc-406f-8e2f-b9b2f98e35dd}">
+		<property name="assetPath">
+			<value>The_Incarnation_of_the_Word_of_Life.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>38.034285714285716</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{01e9fe98-5625-4ea2-ae01-d5e4fbd62fbf}</destination>
+		</relationship>
+	</object>
+</objects>
